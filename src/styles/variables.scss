@@ -1,0 +1,7 @@
+$background-from: hsl(273, 91%, 26%);
+$background-to: hsl(238, 89%, 15%);
+
+:export {
+  bgColorFrom: $background-from;
+  bgColorTo: $background-to;
+}
